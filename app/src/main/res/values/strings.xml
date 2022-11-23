@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mutex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="changeProfile">
+        <item>Change to male</item>
+        <item>Change to female</item>
+    </string-array>
+</resources>

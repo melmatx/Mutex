@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/credential_manager"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Manager" />
+
+    <item
+        android:id="@+id/password_generator"
+        android:icon="@drawable/ic_baseline_text_fields_24"
+        android:title="Generator" />
+
+    <item
+        android:id="@+id/password_checker"
+        android:icon="@drawable/ic_baseline_spellcheck_24"
+        android:title="Checker" />
+</menu>
