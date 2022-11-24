@@ -1,9 +1,9 @@
 package com.example.mutex;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -149,22 +149,29 @@ public class RegisterActivity extends AppCompatActivity {
             boolean numberCheck = false;
 
             char ch;
-            for(int i=0;i < password.length();i++) {
+            for (int i = 0; i < password.length(); i++) {
                 ch = password.charAt(i);
 
-                if(Character.isUpperCase(ch)) {
+                if (Character.isUpperCase(ch)) {
                     uppercaseCheck = true;
                 }
-                if(Character.isLowerCase(ch)) {
+                if (Character.isLowerCase(ch)) {
                     lowercaseCheck = true;
                 }
-                if(Character.isDigit(ch)) {
+                if (Character.isDigit(ch)) {
                     numberCheck = true;
                 }
             }
 
-            if(!uppercaseCheck || !lowercaseCheck || !numberCheck) {
-                Toast.makeText(this, "You must have at least one uppercase letter, one lowercase letter, and one number in your password!", Toast.LENGTH_LONG).show();
+            if (!uppercaseCheck || !lowercaseCheck || !numberCheck) {
+                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+
+                builder.setTitle("Insecure Password");
+                builder.setMessage("You must have at least one uppercase letter, one lowercase letter, and one number in your password!");
+                builder.setPositiveButton("OK", null);
+
+                AlertDialog dialog = builder.create();
+                dialog.show();
             }
             else {
                 DatabaseHelper dbHelper = new DatabaseHelper(this);

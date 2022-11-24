@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/melmathewpalana/AndroidStudioProjects/Mutex/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "com.example.mutex.app-mergeDebugResources-14:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-2/files-2.1/20cb719c6e7f450c785cfe641873baec/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/c8e1d359462525af914532426b3b78e0/transformed/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

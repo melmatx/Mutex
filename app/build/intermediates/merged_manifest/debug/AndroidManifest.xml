@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <application
         android:allowBackup="true"
@@ -58,6 +58,7 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.mutex.PinActivity"
+            android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait" >
             <intent-filter>
