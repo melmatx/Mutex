@@ -10,6 +10,7 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.os.Handler;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.widget.Button;
@@ -32,6 +33,9 @@ public class LoginActivity extends AppCompatActivity {
     Button btn_login, btn_registerAct;
 
     SharedPreferences sp;
+
+    int attempts = 0;
+    boolean isLocked = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -80,49 +84,61 @@ public class LoginActivity extends AppCompatActivity {
                 layout_password2.setError("Please enter a password");
                 layout_password2.requestFocus();
             } else {
-                DatabaseHelper dbHelper = new DatabaseHelper(LoginActivity.this);
-                boolean isExisting = dbHelper.validateLogin(username, password);
-                if (isExisting) {
-                    sp = getSharedPreferences(PinActivity.my_PREFERENCES, MODE_PRIVATE);
+                if (!isLocked) {
+                    DatabaseHelper dbHelper = new DatabaseHelper(LoginActivity.this);
+                    boolean isExisting = dbHelper.validateLogin(username, password);
+                    if (isExisting) {
+                        sp = getSharedPreferences(PinActivity.my_PREFERENCES, MODE_PRIVATE);
 
-                    SharedPreferences.Editor editor = sp.edit();
-                    editor.putString(PREF_username, username);
-                    editor.putString(PREF_password, password);
-                    editor.putBoolean(PREF_isLogged, true);
-                    editor.commit();
+                        SharedPreferences.Editor editor = sp.edit();
+                        editor.putString(PREF_username, username);
+                        editor.putString(PREF_password, password);
+                        editor.putBoolean(PREF_isLogged, true);
+                        editor.apply();
 
-                    Intent intent = new Intent(this, PinActivity.class);
-                    startActivity(intent);
-                    finish();
-                    Toast.makeText(this, "Login Successful!", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(this, PinActivity.class);
+                        startActivity(intent);
+                        finish();
+                        Toast.makeText(this, "Login Successful!", Toast.LENGTH_SHORT).show();
+                    } else {
+                        boolean isDisabled = dbHelper.checkDisabled(username, password);
+                        if(isDisabled) {
+                            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+
+                            builder.setMessage("Are you sure you want to re-enable this account?");
+                            builder.setTitle("Disabled Account");
+                            builder.setPositiveButton("OK", (dialog, which) -> {
+                                Cursor cursor = dbHelper.getUserDetails(username, password);
+                                int userID = cursor.getInt(0);
+
+                                boolean isEnabled = dbHelper.enableUser(userID);
+                                if(isEnabled) {
+                                    Toast.makeText(this, "Account re-enabled successfully! Please log-in again.", Toast.LENGTH_SHORT).show();
+                                }
+                                else {
+                                    Toast.makeText(this, "Error re-enabling account!", Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                            builder.setNegativeButton("Cancel", (dialog, which) ->
+                                    Toast.makeText(this, "This account is disabled!", Toast.LENGTH_SHORT).show());
+
+                            AlertDialog dialog = builder.create();
+                            dialog.show();
+                        }
+                        else {
+                            attempts++;
+                            if (attempts == 3) {
+                                isLocked = true;
+                                new Handler().postDelayed(() -> {
+                                    isLocked = false;
+                                    attempts = 0;
+                                }, 30000);
+                            }
+                            Toast.makeText(this, "Invalid username or password", Toast.LENGTH_SHORT).show();
+                        }
+                    }
                 } else {
-                    boolean isDisabled = dbHelper.checkDisabled(username, password);
-                    if(isDisabled) {
-                        AlertDialog.Builder builder = new AlertDialog.Builder(this);
-
-                        builder.setMessage("Are you sure you want to re-enable this account?");
-                        builder.setTitle("Disabled Account");
-                        builder.setPositiveButton("OK", (dialog, which) -> {
-                            Cursor cursor = dbHelper.getUserDetails(username, password);
-                            int userID = cursor.getInt(0);
-
-                            boolean isEnabled = dbHelper.enableUser(userID);
-                            if(isEnabled) {
-                                Toast.makeText(this, "Account re-enabled successfully! Please log-in again.", Toast.LENGTH_SHORT).show();
-                            }
-                            else {
-                                Toast.makeText(this, "Error re-enabling account!", Toast.LENGTH_SHORT).show();
-                            }
-                        });
-                        builder.setNegativeButton("Cancel", (dialog, which) ->
-                                Toast.makeText(this, "This account is disabled!", Toast.LENGTH_SHORT).show());
-
-                        AlertDialog dialog = builder.create();
-                        dialog.show();
-                    }
-                    else {
-                        Toast.makeText(this, "Username/Password is incorrect!", Toast.LENGTH_SHORT).show();
-                    }
+                    Toast.makeText(this, "Too many attempts. Please wait for 30 seconds.", Toast.LENGTH_SHORT).show();
                 }
             }
         });
