@@ -8,6 +8,7 @@ Mobile Password Manager App with password generator and checker, and user accoun
 ## Screenshots
 
 ### Login Screen
+
 <img width="449" alt="Screenshot 2023-05-29 at 5 41 47 PM" src="https://github.com/melmatx/Mutex/assets/87235413/dff3000a-cf33-42aa-91ed-d4e5a9c2f4c7">
 
 <img width="449" alt="Screenshot 2023-05-29 at 5 44 38 PM" src="https://github.com/melmatx/Mutex/assets/87235413/b0402ef1-5de0-4010-a145-5774af4ad109">
