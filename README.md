@@ -12,7 +12,7 @@ Mobile Password Manager App with password generator and checker, and user accoun
 
 <img width="449" alt="Screenshot 2023-05-29 at 5 42 35 PM" src="https://github.com/melmatx/Mutex/assets/87235413/52ed4fce-c817-46b0-b31a-1e19a7f4176e">
 
-### Accounts Manager Screen
+### Manage Accounts Screen
 
 <img width="449" alt="Screenshot 2023-05-29 at 5 43 47 PM" src="https://github.com/melmatx/Mutex/assets/87235413/8612312c-6f8a-462c-91bb-a72ad106a73f">
 
