@@ -1,5 +1,5 @@
 # Mutex
-Mobile Password Manager App with password generator and checker, and user accounts.
+Mobile Password Manager App with password generator and checker, and user accounts (for Android only).
 
 ![logo](https://github.com/melmatx/Mutex/assets/87235413/49f0b39e-b3b9-4b21-b258-e3721e0dbaa3)
 
