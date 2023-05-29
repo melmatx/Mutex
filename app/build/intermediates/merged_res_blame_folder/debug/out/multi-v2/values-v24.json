@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mutex.app-mergeDebugResources-14:/values-v24/values-v24.xml",
+            "outputFile": "com.example.mutex.app-mergeDebugResources-13:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/c8e1d359462525af914532426b3b78e0/transformed/appcompat-1.2.0/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/f135c516890cb728e56d6e33b78e32d5/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/62fb05af4a187d66c732b7b504a3625d/transformed/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/d94c83ad6c33e03af864e7e105378731/transformed/appcompat-1.2.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

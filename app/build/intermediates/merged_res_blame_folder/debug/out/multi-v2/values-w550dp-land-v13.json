@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mutex.app-mergeDebugResources-14:/values-w550dp-land-v13/values-w550dp-land-v13.xml",
+            "outputFile": "com.example.mutex.app-mergeDebugResources-13:/values-w550dp-land-v13/values-w550dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/20f66982fcf44135f297177748e838a3/transformed/material-1.3.0/res/values-w550dp-land-v13/values-w550dp-land-v13.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/1c7cdee36e804457c2d6aa0e1aa7b6db/transformed/material-1.3.0/res/values-w550dp-land-v13/values-w550dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

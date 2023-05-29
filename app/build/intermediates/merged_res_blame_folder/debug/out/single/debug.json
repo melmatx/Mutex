@@ -1,362 +1,362 @@
 [
     {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_login.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_login.xml"
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_login.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_graphic_lady.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/graphic_lady.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_text_fields_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_text_fields_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/menu_my_options_menu.xml.flat",
-        "source": "com.example.mutex.app-main-18:/menu/my_options_menu.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_graphic_settings.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/graphic_settings.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_register.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_register.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_delete_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_delete_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_account_box_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_account_box_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_logo.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/logo.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_delete_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_delete_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_edit_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_edit_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_button_bg.xml.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/button_bg.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_view_credential.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_view_credential.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_fragment_password_checker.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/fragment_password_checker.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_edit_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_edit_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_account_circle_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/color_tab_item.xml.flat",
-        "source": "com.example.mutex.app-main-18:/color/tab_item.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_delete_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/menu_navigation.xml.flat",
-        "source": "com.example.mutex.app-main-18:/menu/navigation.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_graphic_key.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/graphic_key.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_account_settings.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_account_settings.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_about.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_about.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_edit_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_edit_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-mdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_delete_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_delete_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_spellcheck_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_spellcheck_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_main.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_add_credential.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_add_credential.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_edit_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-hdpi_ic_baseline_delete_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_delete_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-ldpi_ic_baseline_delete_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_delete_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_fragment_password_generator.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/fragment_password_generator.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_spellcheck_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_spellcheck_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxxhdpi_ic_baseline_account_box_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_account_box_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_edit_24.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_edit_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_edit_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.mutex.app-main-18:/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_fragment_credential_manager.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/fragment_credential_manager.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_text_fields_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_text_fields_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_graphic_settings_2.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/graphic_settings_2.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/menu_edit_menu.xml.flat",
-        "source": "com.example.mutex.app-main-18:/menu/edit_menu.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/layout_activity_pin.xml.flat",
-        "source": "com.example.mutex.app-main-18:/layout/activity_pin.xml"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
-        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_account_circle_24.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_mutex.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/mutex.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable_graphic_laptop.png.flat",
-        "source": "com.example.mutex.app-main-18:/drawable/graphic_laptop.png"
-    },
-    {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_edit_24.png.flat",
         "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_edit_24.png"
     },
     {
-        "merged": "com.example.mutex.app-merged_res-16:/drawable-mdpi_ic_baseline_delete_24.png.flat",
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_graphic_lady.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/graphic_lady.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/color_tab_item.xml.flat",
+        "source": "com.example.mutex.app-main-17:/color/tab_item.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_spellcheck_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_spellcheck_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_spellcheck_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_fragment_password_generator.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/fragment_password_generator.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_spellcheck_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_spellcheck_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_view_credential.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_view_credential.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_account_settings.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_account_settings.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_account_box_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_account_box_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_fragment_credential_manager.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/fragment_credential_manager.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_delete_24.png.flat",
         "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_spellcheck_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_fragment_password_checker.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/fragment_password_checker.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_add_credential.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_add_credential.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_logo.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_graphic_settings.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/graphic_settings.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_register.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_graphic_laptop.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/graphic_laptop.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-mdpi/ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_account_box_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_account_box_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xhdpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-ldpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-ldpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_graphic_key.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/graphic_key.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_mutex.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/mutex.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/menu_my_options_menu.xml.flat",
+        "source": "com.example.mutex.app-main-17:/menu/my_options_menu.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_text_fields_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_text_fields_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/menu_edit_menu.xml.flat",
+        "source": "com.example.mutex.app-main-17:/menu/edit_menu.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_button_bg.xml.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_about.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_text_fields_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_text_fields_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-anydpi-v21_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-anydpi-v21/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_spellcheck_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_pin.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_pin.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-xxhdpi/ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/layout_activity_main.xml.flat",
+        "source": "com.example.mutex.app-main-17:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable_graphic_settings_2.png.flat",
+        "source": "com.example.mutex.app-main-17:/drawable/graphic_settings_2.png"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/menu_navigation.xml.flat",
+        "source": "com.example.mutex.app-main-17:/menu/navigation.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mutex.app-main-17:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mutex.app-merged_res-15:/drawable-hdpi_ic_baseline_spellcheck_24.png.flat",
+        "source": "com.example.mutex.app-pngs-11:/drawable-hdpi/ic_baseline_spellcheck_24.png"
     }
 ]

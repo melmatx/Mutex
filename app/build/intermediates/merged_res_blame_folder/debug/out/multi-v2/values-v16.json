@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mutex.app-mergeDebugResources-14:/values-v16/values-v16.xml",
+            "outputFile": "com.example.mutex.app-mergeDebugResources-13:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/6eea6f9af2424c7ac49c133608fd1f6a/transformed/core-1.3.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/3f2e5004198923d92eb696fa05e9698b/transformed/core-1.3.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/c8e1d359462525af914532426b3b78e0/transformed/appcompat-1.2.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/d94c83ad6c33e03af864e7e105378731/transformed/appcompat-1.2.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
